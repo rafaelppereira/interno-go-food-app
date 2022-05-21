@@ -1,6 +1,6 @@
 <h1 align="center">Go Food</h1>
 
-<p align="center">🤖 Fraude pix was a landing page that the folks at Resolv proposed to make for this pix bot they created</p>
+<p align="center">🍕 Design of an administrative panel to choose the food you want, with payment methods/p>
 
 <p align="center">To start the project just run the commands below</p>
 
